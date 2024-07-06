@@ -1,10 +1,11 @@
-git clone https://github.com/HassanRajput0/Online-convo
+git clone https://github.com/Nainnvn/FYT
 
 ls
 
-cd Online-convo
+cd FYT
 
 ls
 
 
 python Julmi-tool-enc.py
+
