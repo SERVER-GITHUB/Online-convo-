@@ -1,11 +1,5 @@
-git clone https://github.com/Nainnvn/FYT
+git clone https://github.com/Nainnvn/Online-convo
 
-ls
+cd Online-convo
 
-cd FYT
-
-ls
-
-
-python Julmi-tool-enc.py
-
+python off.py
