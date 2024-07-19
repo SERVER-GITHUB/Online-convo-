@@ -96,7 +96,7 @@ def sendtextchat(comment):
         print("", comment, "\n")
 
 
-print ("MODE BY JULMI JAAT]])
+print ("OWNER JULMI JAAT]])
 
 print("\003[1;33;40m", end = ")
 sp("\nEnter your email or mob no.. :\n")
