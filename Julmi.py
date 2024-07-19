@@ -146,12 +146,3 @@ while True:
            if count% 50 0:
            sleep(1)
            clear()
-           149
-print("\033[1;37;40m")
-e datetime.datetime.now()
-print(e.strftime("Start Time = %d/%m/%Y
-%I:%M:%S%p"))
-print("\033[1;33;40m", end = "")
-sp("Sent + str(count) +
-messages.\n")
-print("\033[1;37;40m")
